@@ -1,12 +1,13 @@
 # Curatable
 
-System for getting a Luke Haynes quilt curated
+System for getting a Luke Haynes quilt (or any valuable artwork) curated
 
 # Theory
 
 Artwork creates value when exhibited.
 Promoters work to find proffitible oportunities for exhibition
 The Handler/Owner maintains posession of the artowrk and is paid to exhibit the work
+Shareholders in the artwork are paid to exhibit the work
 
 * The artwork needs a handler who will deliver the artwork to the museum when curated
 * The handler will also store the artwork safely
